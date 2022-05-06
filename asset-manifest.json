@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProyectosYa/static/css/main.768bd58b.css",
+    "main.js": "/ProyectosYa/static/js/main.c5eadf35.js",
+    "index.html": "/ProyectosYa/index.html",
+    "main.768bd58b.css.map": "/ProyectosYa/static/css/main.768bd58b.css.map",
+    "main.c5eadf35.js.map": "/ProyectosYa/static/js/main.c5eadf35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768bd58b.css",
+    "static/js/main.c5eadf35.js"
+  ]
+}
